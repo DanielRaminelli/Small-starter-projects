@@ -11,6 +11,6 @@ while n != 0 and not igual:
         igual=True
 
 if igual:
-    print("Esse número tem dois algarismos iguais!")
+    print("sim")
 else:
-    print("Esse número não tem dois algarismos iguais")
+    print("não")
